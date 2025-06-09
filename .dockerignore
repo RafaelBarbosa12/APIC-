@@ -1,0 +1,33 @@
+# .NET build output directories
+bin/
+obj/
+
+# Development files
+*.user
+*.suo
+*.vs
+.vscode/
+.idea/
+
+# Git directory
+.git/
+.gitignore
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Logs
+*.log
+
+# Environment files
+*.env
+.env.*
+
+# Documentation
+README.md
+docs/
+
+# Package manager directories
+packages/
+node_modules/ 
